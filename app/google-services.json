@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184188102280",
+    "project_id": "mothercareapp-36530",
+    "storage_bucket": "mothercareapp-36530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184188102280:android:0cd83144c0bead68fde13d",
+        "android_client_info": {
+          "package_name": "com.example.mothercareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184188102280-t4jt5k59nmka4mlqp8dcd376tou30hc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiEDV7ibNE2q2T7LXOJeL1HPsxuErfycQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184188102280-t4jt5k59nmka4mlqp8dcd376tou30hc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
